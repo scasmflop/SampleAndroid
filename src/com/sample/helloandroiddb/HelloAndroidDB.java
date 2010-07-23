@@ -68,7 +68,7 @@ public class HelloAndroidDB extends Activity {
         				break;
         			case 2:
         				testDB();
-        				HelloAndroidDB.this.setTitle("SQLite Country/State DB");
+        				HelloAndroidDB.this.setTitle("SQLite DB");
         				break;
         		}
                 applyRotation(position, 0, 90);
