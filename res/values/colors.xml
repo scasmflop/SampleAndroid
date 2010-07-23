@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="primarytextcolor">#FFEEEEEE</color>
+	<color name="activity_background">#FFFFFF</color>
+	<color name="clrGradDrkGryStart">#FF999999</color>
+	<color name="clrGradDrkGryFinish">#FF101010</color>
+	<color name="clrGradRedStart">#FFEE2200</color>
+	<color name="clrGradRedFinish">#FFCC1000</color>
+	<color name="clrGradBlueStart">#FF0022EE</color>
+	<color name="clrGradBlueFinish">#FF0010CC</color>
+</resources>
